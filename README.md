@@ -8,7 +8,7 @@ Pliki:
 - SampleSolution.csv - przykładowy plik z formalnie poprawnym rozwiązaniem
 
 
-Jako rozwiązanie należy wysłać na adres piotr.bochnia@pl.pwc.com plik zawierający dwie kolumny:
+Jako rozwiązanie należy wysłać na adres pawel.marcinkowski@pl.pwc.com plik zawierający dwie kolumny:
  - ID - identyfikator piekarni ze zbioru testowego (TestSet.csv),
  - PredictedRevenue - prognozowane przychody dla danego sklepu
 
