@@ -12,5 +12,5 @@ Jako rozwiązanie należy wysłać na adres pawel.marcinkowski@pl.pwc.com plik z
  - ID - identyfikator piekarni ze zbioru testowego (TestSet.csv),
  - PredictedRevenue - prognozowane przychody dla danego sklepu
 
-Przykladowe rozwiazanie w poprawnym formacie znajduje sie w pliku SampleSolution.csv. W temacie maila należy wpisać: GirlsDoITChallenge - [Imie i nazwisko]
+Przykladowe rozwiazanie w poprawnym formacie znajduje sie w pliku SampleSolution.csv. W temacie maila należy wpisać: GirlsDoITChallenge - [Imie i nazwisko]. Na rozwiazania czekamy do 24 maja.
 
